@@ -3,6 +3,8 @@
 # Bootcamp Análise de Dados TripleTen
 
 ### Projeto 14
+No décimo quarto projeto do Bootcamp Análise de Dados foi aplicado um teste A / B com a finalidade de entender se mudanças no sistema de recomendação de produtos de uma loja virtual tiveram algum efeito estatisticamente significativo nas vendas de dois grupos distintos.
+Além disso, foi realizada uma consulta SQL em um banco de dados de livros à procura de insights sobre o comportamento dos usuários.
 
 #### Consulta SQL
 - **Descrição**: Durante a pandemia de coronavírus, startups voltadas para amantes de livros exploraram novos aplicativos. Este projeto analisa um banco de dados contendo informações sobre livros, autores, editoras, classificações e avaliações de clientes. Os objetivos incluem encontrar livros lançados após 1 de janeiro de 2000, calcular avaliações e média de classificação por livro, identificar a editora mais prolífica em lançamentos relevantes e o autor com a melhor média de classificações, além de determinar a média de avaliações entre usuários que classificaram mais de 50 livros.
